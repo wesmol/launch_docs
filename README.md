@@ -12,7 +12,7 @@ We are adopters, we are experimenters, we are adventurers, we are builders, we a
 
 Together, we are exploring the burgeoning universe of web3. Our community welcomes people with diverse skillsets and interests, from newcomers to crypto to seasoned builders and explorers. We are building an inclusive space for any who share our curiosity and vision of a collaborative future. We believe that together we can accomplish extraordinary things.
 
-Together, we are smol.
+Together, wesmol.
 
 ## what we believe
 
