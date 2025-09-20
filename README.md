@@ -1,5 +1,5 @@
 ---
-description: We are smol, but together wesmol.
+description: we are smol, but together wesmol.
 ---
 
 # about
