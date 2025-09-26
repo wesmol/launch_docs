@@ -10,5 +10,5 @@
 * [growth programs](growth-programs/README.md)
   * [promoter competition](growth-programs/promoter-competition.md)
   * [community art](growth-programs/community-art.md)
-* [contracts & addesses](contracts-and-addesses.md)
+* [contracts & addresses](contracts-and-addresses.md)
 * [disclaimer](disclaimer.md)
