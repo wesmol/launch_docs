@@ -38,11 +38,11 @@ Believer: [0x7c613d888d329559371d26511f7b173fcb8b3bc0](https://snowtrace.io/addr
 
 
 
-## partner DEX pools
+## DEX pools
 
-LFJ:
+LFJ: [0xb7b5387478e9414a792bfe0b43742ac9ca1a2487](https://lfj.gg/avalanche/pool/v1/0x0e2fbbd30371f6e0b68d5dc572751bcad8c0b048/AVAX)
 
-Pharaoh:
+Pharaoh: [0x99d0088f937d066dcbe36442941005f158b6d5a6](https://pharaoh.exchange/manage/v1/0x99d0088f937d066dcbe36442941005f158b6d5a6)
 
 
 
